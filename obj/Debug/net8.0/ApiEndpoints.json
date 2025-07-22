@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Signature.Controllers.SignaturesController",
+    "Method": "Post",
+    "RelativePath": "api/Signatures",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Signature.Controllers.SignaturesController\u002BFullNameRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
