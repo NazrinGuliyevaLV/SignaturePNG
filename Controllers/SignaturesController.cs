@@ -15,7 +15,7 @@ namespace Signature.Controllers
             if (string.IsNullOrWhiteSpace(request.FullName))
                 return BadRequest("FullName is required.");
 
-            var fontPath = Path.Combine(Directory.GetCurrentDirectory(), "fonts", "MrsSaintDelafield-Regular.ttf");
+            var fontPath = Path.Combine(Directory.GetCurrentDirectory(), "fonts", "ReenieBeanie-Regular.ttf");
             if (!System.IO.File.Exists(fontPath))
                 return NotFound("Font file not found at: " + fontPath);
 
