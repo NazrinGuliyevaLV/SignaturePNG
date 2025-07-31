@@ -26,7 +26,6 @@ C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Debug\net8.0\static
 C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Debug\net8.0\Signature.csproj.Up2Date
 C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Debug\net8.0\Signature.dll
 C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Debug\net8.0\refint\Signature.dll
@@ -39,3 +38,4 @@ C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\bin\Debug\net8.0\runtim
 C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
 C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
 C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Debug\net8.0\Signature.sourcelink.json
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

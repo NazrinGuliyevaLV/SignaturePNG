@@ -1,0 +1,16 @@
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\Signature.exe
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\Signature.dll
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\Signature.deps.json
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\Signature.runtimeconfig.json
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\Signature.pdb
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\SkiaSharp.dll
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\NazrinGuliyeva\source\repos\Signature\Signature\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\libSkiaSharp.dll
